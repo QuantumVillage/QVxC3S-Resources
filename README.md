@@ -9,4 +9,4 @@ For our Quantum `Voqoder.py` demo, to go: [/voqoder](/voqoder)
 
 For the quantum music examples, please see our main repo for that here: https://github.com/QuantumVillage/quantum-music
 
-ENJOY! HAPPY QUANTUM HACKING!
+**ENJOY! HAPPY QUANTUM HACKING!**
